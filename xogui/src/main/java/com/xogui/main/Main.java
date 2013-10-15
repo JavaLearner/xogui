@@ -4,7 +4,6 @@ package com.game.xo.main;
 import com.game.xo.choice.ChoicePlayer;
 import com.game.xo.choice.ChoiceSymbol;
 import com.game.xo.display.ConsoleDisplay;
-import com.game.xo.display.IDisplay;
 import com.game.xo.field.ConsoleField;
 import com.game.xo.players.Player;
 import com.game.xo.game.Game;
